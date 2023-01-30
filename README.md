@@ -19,9 +19,7 @@ This is a simple Travel Management Interface System (TMIS) implemented in C++. T
 
 #How to Use
 #Clone the repository to your local machine
-bash
-#Copy code
-git clone https://github.com/[your_username]/TMIS.git
+bash or Copy code
 Compile the code using a C++ compiler:
 css
 Copy code
